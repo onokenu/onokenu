@@ -1,7 +1,12 @@
-![IMG_3788](https://user-images.githubusercontent.com/115608035/226262295-87aa60b1-58ba-41cc-be8c-01823190a514.PNG)
+
 
 
 ### Hi there 👋
+
+                            ![IMG_3788](https://user-images.githubusercontent.com/115608035/226262295-87aa60b1-58ba-41cc-be8c-01823190a514.PNG)
+                            
+Graduate of ![image](https://user-images.githubusercontent.com/115608035/226262580-aa9e7ced-5068-4eb0-a986-c21f34da4168.png)
+                          
 
 I'm Onyi Okenu a SAIT Graduate and former SME Personal Banker turned Data Analyst. 
 
