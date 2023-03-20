@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
-                  <img width="223" alt="image" src="https://user-images.githubusercontent.com/115608035/226263268-c1ea127d-8b61-4c95-8cd0-ed13d11e9687.png">
+<img width="223" alt="image" src="https://user-images.githubusercontent.com/115608035/226263322-05dcfb92-07fe-42f4-a5f0-130be8abbb27.png">
+
 
                           
 
