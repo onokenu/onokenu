@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**onokenu/onokenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Onyi Okenu a SAIT Graduate and former SME Personal Banker turned Data Analyst. 
+
+I am a trained Data Analyst with over 8 years of experience in the Financial Services and Technology Industries
+
+Languages & Tools: SQL, Tableau, Advanced Excel, Python, SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Reporting Services (SSRS), Microsoft office SharePoint server, Microsoft PerformancePoint server, Ms Office suite,  Azure, Oracle, SQL Navigator, Google Analytics, Looker Studio, DAX, M Query.
+
+SAIT Graduate
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: www.linkedin.com/in/onyiokenu
+- 🎙️ My Story: My drive for constant learning led me into an unplanned journey into the world of Analytics.
+- ⚡ Fun fact: If I had to wear one outfit color for the rest of my life, it would be Black.
