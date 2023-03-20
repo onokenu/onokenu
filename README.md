@@ -16,9 +16,6 @@ Languages & Tools: SQL, Tableau, Advanced Excel, Python, SQL Server Integration 
 
 SAIT Graduate <img width="25" alt="image" src="https://user-images.githubusercontent.com/115608035/226263041-5f32a326-1f98-4dfd-beae-808c6826da7a.png">
 
-
-Here are some ideas to get you started:
-
 - 📫 How to reach me: www.linkedin.com/in/onyiokenu
 - 🎙️ My Story: My drive for constant learning led me into an unplanned journey into the world of Analytics.
 - ⚡ Fun fact: If I had to wear one outfit color for the rest of my life, it would be Black.
