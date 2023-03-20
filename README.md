@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
-                           ![IMG_3788](https://user-images.githubusercontent.com/115608035/226262686-f7a67a85-d7eb-43bd-bb47-b9aa865d71e3.PNG)
+                  <img width="223" alt="image" src="https://user-images.githubusercontent.com/115608035/226263268-c1ea127d-8b61-4c95-8cd0-ed13d11e9687.png">
+
                           
 
 I'm Onyi Okenu a SAIT Graduate and former SME Personal Banker turned Data Analyst. 
